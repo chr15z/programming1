@@ -1,0 +1,4 @@
+# Ignoriere alle Dateien im Ordner, außer Java-Dateien
+Einführung_in_die_Programmierung1/*
+!Einführung_in_die_Programmierung1/*.java
+
